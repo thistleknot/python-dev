@@ -1,80 +1,387 @@
-FLS Crash 02a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G16InLite_01.wav
-FLS Crash 02b.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G16InLite_02.wav
-FLS Ride 02a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G16InLite_03.wav
-FLS Ride 02b.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G16InLite_04.wav
-FLS_cd1_dom.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G16InLite_05.wav
-FLS_cd2-tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InLite_01.wav
-FLS_cd3_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InLite_03.wav
-FLS_cd4_sak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InLite_05.wav
-FLS_ck1_dom.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InMed_01.wav
-FLS_ck2_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InMed_02.wav
-FLS_ck3_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InMed_03.wav
-FLS_ck4_sak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_RideBell_F_010.wav
-FLS_Clap 04.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_Brite_003.wav
-FLS_Clap 05.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_Brite_004.wav
-FLS_Clap 06.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_FDrk_001.wav
-FLS_Clap 07.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_FDrk_002.wav
-FLS_cr1_dom.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_FDrk_003.wav
-FLS_cr2_bell.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_FDrk_004.wav
-FLS_cr3_bell.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_GLite_001.wav
-FLS_cr4_sak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_GLite_002.wav
-FLS_cr5_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_GLite_003.wav
-FLS_cr6_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_GLite_004.wav
-FLS_cr7_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_GLite_005.wav
-FLS_cr8_shake.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Splash_F_006.wav
-FLS_Crash 04a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GCsta_001.wav
-FLS_Crash 04b.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GCsta_003.wav
-FLS_Crash 04c.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GCsta_004.wav
-FLS_Crash 07a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GCsta_005.wav
-FLS_Crash 07b.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GCsta_007.wav
-FLS_Crash 07c.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GSab_001.wav
-FLS_ct1_dom.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GSab_002.wav
-FLS_ct2_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GSab_003.wav
-FLS_ct3_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GZid_001.wav
-FLS_ct4_sak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GZid_003.wav
-FLS_ct5_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_OHH_Gi_01.wav
-FLS_ct6_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_OHH_Gi_03.wav
-FLS_ct7_tak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_OHH_Greal_13_01.wav
-FLS_ct8_fx.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_OHH_Greal_13_02.wav
-FLS_ct9_sak.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_OHH_Greal_13_03.wav
-FLS_Ecym 05a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_GiReal_001.wav
-FLS_Ecym 05b.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_GiReal_002.wav
-FLS_Ecym 06a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_GiReal_003.wav
-FLS_Ecym 06b.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_GiReal_006.wav
-FLS_ElecSnd 05a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_Gretc_001.wav
-FLS_ElecSnd 05b.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_Gretc_002.wav
-FLS_ElecSnd 06a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_Gretc_003.wav
-FLS_ElecSnd 06b.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_Gretc_004.wav
-FLS_Hatcl 01.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_Gretc_005.wav
-FLS_Hatcl 02.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Other Percussion\FPC_CowB_G_02.wav
-FLS_Hatcl 04.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Other Percussion\FPC_Tamb_B04.wav
-FLS_Hatcl 05.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_B_001.wav
-FLS_Hatcl 06.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_B_004.wav
-FLS_Hatcl 07.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_C_001.wav
-FLS_Hatop 01.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_C_002.wav
-FLS_Hatop 02.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_C_003.wav
-FLS_Hatop 04.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_C_004.wav
-FLS_Hatop 05.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_SnrC_3_3.wav
-FLS_Hatop 06.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_SnrC_3_6.wav
-FLS_Hatop 07.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2L001.wav
-FLS_Hatpd 01.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2L002.wav
-FLS_Hatpd 02.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2L003.wav
-FLS_Hatpd 04.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2L004.wav
-FLS_Hatpd 05.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2lI01.wav
-FLS_Hatpd 06.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2lI02.wav
-FLS_Hatpd 07.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2lI03.wav
-FLS_Kick 01.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2lI04.wav
-FLS_Kick 02.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_12inPr_002.wav
-FLS_Kick 04.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_12inPr_004.wav
-FLS_Kick 05.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_14inPr_002.wav
-FLS_Kick 06.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_14inPr_004.wav
-FLS_Kick 07.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_16inPr_002.wav
-FLS_Ride 01a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_16inPr_004.wav
-FLS_Ride 01b.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomFlo_001.wav
-FLS_Ride 04a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomFlo_002.wav
-FLS_Ride 07a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomHi_001.wav
-FLS_Rim 01.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomHi_002.wav
-FLS_Rim 02.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomLow_001.wav
-FLS_Snare 01a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomLow_002.wav
-FLS_Snare 01b.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomMid_001.wav
-FLS_Snare 02a.wav,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomMid_002.wav
+Basic 808 Clap.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\Basic 808 Clap.wav
+Basic 808 HiHat.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\Basic 808 HiHat.wav
+Basic 808 Kick.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\Basic 808 Kick.wav
+Basic 808 Snare.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\Basic 808 Snare.wav
+CB_Clap.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\CB_Clap.wav
+CB_Hat.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\CB_Hat.wav
+CB_Kick.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\CB_Kick.wav
+CB_Snare.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\CB_Snare.wav
+Clap Basic.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\Clap Basic.wav
+DNC_Clap.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Clap.wav
+DNC_Clap_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Clap_2.wav
+DNC_Clap_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Clap_3.wav
+DNC_Clap_4.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Clap_4.wav
+DNC_Clap_5.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Clap_5.wav
+DNC_Clap_6.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Clap_6.wav
+DNC_ClubKick.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_ClubKick.wav
+DNC_Crash.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Crash.wav
+DNC_Hat.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Hat.wav
+DNC_Hat_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Hat_2.wav
+DNC_Hat_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Hat_3.wav
+DNC_Hat_4.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Hat_4.wav
+DNC_Kick.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Kick.wav
+DNC_Kick_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Kick_2.wav
+DNC_Kick_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Kick_3.wav
+DNC_Kick_4.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Kick_4.wav
+DNC_Ride.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Ride.wav
+DNC_Snare.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Snare.wav
+DNC_Snare_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Snare_2.wav
+DNC_Snare_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Snare_3.wav
+DNC_Snare_4.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\DNC_Snare_4.wav
+Hat Basic.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\Hat Basic.wav
+Kick Basic.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\Kick Basic.wav
+Snare Basic.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Dance\Snare Basic.wav
+FPC_Crash_G16InLite_01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G16InLite_01.wav
+FPC_Crash_G16InLite_02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G16InLite_02.wav
+FPC_Crash_G16InLite_03.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G16InLite_03.wav
+FPC_Crash_G16InLite_04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G16InLite_04.wav
+FPC_Crash_G16InLite_05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G16InLite_05.wav
+FPC_Crash_G18InLite_01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InLite_01.wav
+FPC_Crash_G18InLite_03.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InLite_03.wav
+FPC_Crash_G18InLite_05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InLite_05.wav
+FPC_Crash_G18InMed_01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InMed_01.wav
+FPC_Crash_G18InMed_02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InMed_02.wav
+FPC_Crash_G18InMed_03.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Crash_G18InMed_03.wav
+FPC_RideBell_F_010.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_RideBell_F_010.wav
+FPC_Ride_Brite_003.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_Brite_003.wav
+FPC_Ride_Brite_004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_Brite_004.wav
+FPC_Ride_FDrk_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_FDrk_001.wav
+FPC_Ride_FDrk_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_FDrk_002.wav
+FPC_Ride_FDrk_003.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_FDrk_003.wav
+FPC_Ride_FDrk_004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_FDrk_004.wav
+FPC_Ride_GLite_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_GLite_001.wav
+FPC_Ride_GLite_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_GLite_002.wav
+FPC_Ride_GLite_003.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_GLite_003.wav
+FPC_Ride_GLite_004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_GLite_004.wav
+FPC_Ride_GLite_005.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Ride_GLite_005.wav
+FPC_Splash_F_006.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Cymbals\FPC_Splash_F_006.wav
+FPC_ClHH_GCsta_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GCsta_001.wav
+FPC_ClHH_GCsta_003.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GCsta_003.wav
+FPC_ClHH_GCsta_004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GCsta_004.wav
+FPC_ClHH_GCsta_005.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GCsta_005.wav
+FPC_ClHH_GCsta_007.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GCsta_007.wav
+FPC_ClHH_GSab_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GSab_001.wav
+FPC_ClHH_GSab_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GSab_002.wav
+FPC_ClHH_GSab_003.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GSab_003.wav
+FPC_ClHH_GZid_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GZid_001.wav
+FPC_ClHH_GZid_003.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_ClHH_GZid_003.wav
+FPC_OHH_Gi_01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_OHH_Gi_01.wav
+FPC_OHH_Gi_03.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_OHH_Gi_03.wav
+FPC_OHH_Greal_13_01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_OHH_Greal_13_01.wav
+FPC_OHH_Greal_13_02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_OHH_Greal_13_02.wav
+FPC_OHH_Greal_13_03.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Hi Hats\FPC_OHH_Greal_13_03.wav
+FPC_Kick_GiReal_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_GiReal_001.wav
+FPC_Kick_GiReal_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_GiReal_002.wav
+FPC_Kick_GiReal_003.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_GiReal_003.wav
+FPC_Kick_GiReal_006.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_GiReal_006.wav
+FPC_Kick_Gretc_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_Gretc_001.wav
+FPC_Kick_Gretc_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_Gretc_002.wav
+FPC_Kick_Gretc_003.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_Gretc_003.wav
+FPC_Kick_Gretc_004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_Gretc_004.wav
+FPC_Kick_Gretc_005.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Kick Drums\FPC_Kick_Gretc_005.wav
+FPC_CowB_G_02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Other Percussion\FPC_CowB_G_02.wav
+FPC_Tamb_B04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Other Percussion\FPC_Tamb_B04.wav
+FPC_SdSt_B_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_B_001.wav
+FPC_SdSt_B_004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_B_004.wav
+FPC_SdSt_C_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_C_001.wav
+FPC_SdSt_C_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_C_002.wav
+FPC_SdSt_C_003.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_C_003.wav
+FPC_SdSt_C_004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\SideStick_Rims\FPC_SdSt_C_004.wav
+FPC_SnrC_3_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_SnrC_3_3.wav
+FPC_SnrC_3_6.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_SnrC_3_6.wav
+FPC_Snr_2L001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2L001.wav
+FPC_Snr_2L002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2L002.wav
+FPC_Snr_2L003.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2L003.wav
+FPC_Snr_2L004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2L004.wav
+FPC_Snr_2lI01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2lI01.wav
+FPC_Snr_2lI02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2lI02.wav
+FPC_Snr_2lI03.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2lI03.wav
+FPC_Snr_2lI04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Snare Drums\FPC_Snr_2lI04.wav
+FPC_Tom_12inPr_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_12inPr_002.wav
+FPC_Tom_12inPr_004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_12inPr_004.wav
+FPC_Tom_14inPr_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_14inPr_002.wav
+FPC_Tom_14inPr_004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_14inPr_004.wav
+FPC_Tom_16inPr_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_16inPr_002.wav
+FPC_Tom_16inPr_004.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_16inPr_004.wav
+FPC_Tom_GtomFlo_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomFlo_001.wav
+FPC_Tom_GtomFlo_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomFlo_002.wav
+FPC_Tom_GtomHi_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomHi_001.wav
+FPC_Tom_GtomHi_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomHi_002.wav
+FPC_Tom_GtomLow_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomLow_001.wav
+FPC_Tom_GtomLow_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomLow_002.wav
+FPC_Tom_GtomMid_001.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomMid_001.wav
+FPC_Tom_GtomMid_002.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\FPC\Toms\FPC_Tom_GtomMid_002.wav
+HIP_Hat.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Hat.wav
+HIP_Hat_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Hat_2.wav
+HIP_Hat_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Hat_3.wav
+HIP_Hat_4.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Hat_4.wav
+HIP_Hat_5.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Hat_5.wav
+HIP_Hat_6.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Hat_6.wav
+HIP_Hat_7.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Hat_7.wav
+HIP_Kick.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Kick.wav
+HIP_Kick_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Kick_2.wav
+HIP_Kick_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Kick_3.wav
+HIP_Kick_4.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Kick_4.wav
+HIP_Kick_5.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Kick_5.wav
+HIP_Kick_6.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Kick_6.wav
+HIP_Kick_7.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Kick_7.wav
+HIP_Kick_8.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Kick_8.wav
+HIP_Kick_9.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Kick_9.wav
+HIP_Snaph.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Snaph.wav
+HIP_Snare.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Snare.wav
+HIP_Snare_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Snare_2.wav
+HIP_Snare_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Snare_3.wav
+HIP_Snare_4.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Snare_4.wav
+HIP_Snare_5.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Snare_5.wav
+HIP_Snare_6.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Snare_6.wav
+HIP_Snare_7.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Snare_7.wav
+HIP_Snare_8.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Snare_8.wav
+HIP_Snare_9.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\HipHop\HIP_Snare_9.wav
+FLS Crash 01a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS Crash 01a.wav
+FLS Crash 01b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS Crash 01b.wav
+FLS_Hatcl 01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_Hatcl 01.wav
+FLS_Hatop 01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_Hatop 01.wav
+FLS_Hatpd 01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_Hatpd 01.wav
+FLS_Kick 01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_Kick 01.wav
+FLS_Ride 01a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_Ride 01a.wav
+FLS_Ride 01b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_Ride 01b.wav
+FLS_Rim 01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_Rim 01.wav
+FLS_Snare 01a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_Snare 01a.wav
+FLS_Snare 01b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_Snare 01b.wav
+FLS_TomF 01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_TomF 01.wav
+FLS_TomL 01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_TomL 01.wav
+FLS_TomM 01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_TomM 01.wav
+FLS_TomN 01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FLS_TomN 01.wav
+FPC_CaribShake_007.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 01\FPC_CaribShake_007.wav
+FLS Crash 02a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS Crash 02a.wav
+FLS Crash 02b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS Crash 02b.wav
+FLS Ride 02a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS Ride 02a.wav
+FLS Ride 02b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS Ride 02b.wav
+FLS_Hatcl 02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_Hatcl 02.wav
+FLS_Hatop 02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_Hatop 02.wav
+FLS_Hatpd 02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_Hatpd 02.wav
+FLS_Kick 02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_Kick 02.wav
+FLS_Rim 02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_Rim 02.wav
+FLS_Snare 02a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_Snare 02a.wav
+FLS_Snare 02b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_Snare 02b.wav
+FLS_TomF 02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_TomF 02.wav
+FLS_TomL 02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_TomL 02.wav
+FLS_TomM 02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_TomM 02.wav
+FLS_TomN 02.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FLS_TomN 02.wav
+FPC_Pap_Open TriangleII.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 02\FPC_Pap_Open TriangleII.wav
+Overhead FlamA_01.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead FlamA_01.wav
+Overhead Ride2_001ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Ride2_001ogg.wav
+Overhead Ride2_002ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Ride2_002ogg.wav
+Overhead Ridebell2_001ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Ridebell2_001ogg.wav
+Overhead Ridebell2_002ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Ridebell2_002ogg.wav
+Overhead Ridebell2_003ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Ridebell2_003ogg.wav
+Overhead Ridebell2_004ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Ridebell2_004ogg.wav
+Overhead Snare B L_001ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Snare B L_001ogg.wav
+Overhead Snare B L_002ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Snare B L_002ogg.wav
+Overhead Snare B L_003ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Snare B L_003ogg.wav
+Overhead Snare B L_004ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Snare B L_004ogg.wav
+Overhead Snare B R_001ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Snare B R_001ogg.wav
+Overhead Snare B R_002ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Snare B R_002ogg.wav
+Overhead Snare B R_003ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Snare B R_003ogg.wav
+Overhead Snare B R_004ogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\Overhead Snare B R_004ogg.wav
+OverHiTom_002aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverHiTom_002aogg.wav
+OverHiTom_002bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverHiTom_002bogg.wav
+OverHiTom_002cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverHiTom_002cogg.wav
+OverHiTom_002dogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverHiTom_002dogg.wav
+OverHiTom_002eogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverHiTom_002eogg.wav
+OverH_Close_002aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Close_002aogg.wav
+OverH_Close_002bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Close_002bogg.wav
+OverH_Close_002cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Close_002cogg.wav
+OverH_Close_002dogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Close_002dogg.wav
+OverH_Close_002eogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Close_002eogg.wav
+OverH_Crash_002aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Crash_002aogg.wav
+OverH_Crash_002bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Crash_002bogg.wav
+OverH_Crash_002cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Crash_002cogg.wav
+OverH_Crash_003aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Crash_003aogg.wav
+OverH_Crash_003bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Crash_003bogg.wav
+OverH_Crash_003cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Crash_003cogg.wav
+OverH_Kick_002aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Kick_002aogg.wav
+OverH_Kick_002bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Kick_002bogg.wav
+OverH_Kick_002cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Kick_002cogg.wav
+OverH_Kick_002dogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Kick_002dogg.wav
+OverH_Kick_002eogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Kick_002eogg.wav
+OverH_Open_002aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Open_002aogg.wav
+OverH_Open_002bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Open_002bogg.wav
+OverH_Open_002cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Open_002cogg.wav
+OverH_Open_002dogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Open_002dogg.wav
+OverH_Ped_002aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Ped_002aogg.wav
+OverH_Ped_002bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Ped_002bogg.wav
+OverH_Ped_002cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Ped_002cogg.wav
+OverH_Stick_002aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Stick_002aogg.wav
+OverH_Stick_002bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Stick_002bogg.wav
+OverH_Stick_002cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Stick_002cogg.wav
+OverH_Stick_002dogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Stick_002dogg.wav
+OverH_Stick_002eogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverH_Stick_002eogg.wav
+OverLowerTom_002aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverLowerTom_002aogg.wav
+OverLowerTom_002bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverLowerTom_002bogg.wav
+OverLowerTom_002cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverLowerTom_002cogg.wav
+OverLowerTom_002dogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverLowerTom_002dogg.wav
+OverLowTom_002aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverLowTom_002aogg.wav
+OverLowTom_002bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverLowTom_002bogg.wav
+OverLowTom_002cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverLowTom_002cogg.wav
+OverLowTom_002dogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverLowTom_002dogg.wav
+OverMidTom_002aogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverMidTom_002aogg.wav
+OverMidTom_002bogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverMidTom_002bogg.wav
+OverMidTom_002cogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverMidTom_002cogg.wav
+OverMidTom_002dogg.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 03\OverMidTom_002dogg.wav
+FLS_Clap 04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Clap 04.wav
+FLS_Crash 04a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Crash 04a.wav
+FLS_Crash 04b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Crash 04b.wav
+FLS_Crash 04c.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Crash 04c.wav
+FLS_Hatcl 04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Hatcl 04.wav
+FLS_Hatop 04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Hatop 04.wav
+FLS_Hatpd 04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Hatpd 04.wav
+FLS_Kick 04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Kick 04.wav
+FLS_Ride 04a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Ride 04a.wav
+FLS_Snare 04a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Snare 04a.wav
+FLS_Snare 04b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Snare 04b.wav
+FLS_Tamb 04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_Tamb 04.wav
+FLS_TomF 04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_TomF 04.wav
+FLS_TomM 04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_TomM 04.wav
+FLS_TomN 04.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FLS_TomN 04.wav
+FPC_CowBell_808.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 04\FPC_CowBell_808.wav
+FLS_Clap 05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_Clap 05.wav
+FLS_Ecym 05a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_Ecym 05a.wav
+FLS_Ecym 05b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_Ecym 05b.wav
+FLS_ElecSnd 05a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_ElecSnd 05a.wav
+FLS_ElecSnd 05b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_ElecSnd 05b.wav
+FLS_Hatcl 05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_Hatcl 05.wav
+FLS_Hatop 05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_Hatop 05.wav
+FLS_Hatpd 05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_Hatpd 05.wav
+FLS_Kick 05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_Kick 05.wav
+FLS_Snare 05a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_Snare 05a.wav
+FLS_Snare 05b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_Snare 05b.wav
+FLS_TomF 05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_TomF 05.wav
+FLS_TomL 05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_TomL 05.wav
+FLS_TomM 05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_TomM 05.wav
+FLS_TomN 05.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\FLS_TomN 05.wav
+Scrat_007.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 05\Scrat_007.wav
+FLS_Clap 06.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_Clap 06.wav
+FLS_Ecym 06a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_Ecym 06a.wav
+FLS_Ecym 06b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_Ecym 06b.wav
+FLS_ElecSnd 06a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_ElecSnd 06a.wav
+FLS_ElecSnd 06b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_ElecSnd 06b.wav
+FLS_Hatcl 06.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_Hatcl 06.wav
+FLS_Hatop 06.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_Hatop 06.wav
+FLS_Hatpd 06.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_Hatpd 06.wav
+FLS_Kick 06.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_Kick 06.wav
+FLS_Snare 06a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_Snare 06a.wav
+FLS_Snare 06b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_Snare 06b.wav
+FLS_TomF 06.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_TomF 06.wav
+FLS_TomL 06.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_TomL 06.wav
+FLS_TomM 06.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_TomM 06.wav
+FLS_Tomn 06.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\FLS_Tomn 06.wav
+HardFlitPling.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 06\HardFlitPling.wav
+Clap_001Ekits.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\Clap_001Ekits.wav
+FLS_Clap 07.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Clap 07.wav
+FLS_Crash 07a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Crash 07a.wav
+FLS_Crash 07b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Crash 07b.wav
+FLS_Crash 07c.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Crash 07c.wav
+FLS_Hatcl 07.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Hatcl 07.wav
+FLS_Hatop 07.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Hatop 07.wav
+FLS_Hatpd 07.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Hatpd 07.wav
+FLS_Kick 07.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Kick 07.wav
+FLS_Ride 07a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Ride 07a.wav
+FLS_Snare 07a.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Snare 07a.wav
+FLS_Snare 07b.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Snare 07b.wav
+FLS_Tamb 07.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_Tamb 07.wav
+FLS_TomF 07.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_TomF 07.wav
+FLS_TomM 07.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_TomM 07.wav
+FLS_TomN 07.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 07\FLS_TomN 07.wav
+FLS_cd1_dom.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cd1_dom.wav
+FLS_cd2-tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cd2-tak.wav
+FLS_cd3_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cd3_tak.wav
+FLS_cd4_sak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cd4_sak.wav
+FLS_ck1_dom.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ck1_dom.wav
+FLS_ck2_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ck2_tak.wav
+FLS_ck3_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ck3_tak.wav
+FLS_ck4_sak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ck4_sak.wav
+FLS_cr1_dom.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cr1_dom.wav
+FLS_cr2_bell.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cr2_bell.wav
+FLS_cr3_bell.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cr3_bell.wav
+FLS_cr4_sak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cr4_sak.wav
+FLS_cr5_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cr5_tak.wav
+FLS_cr6_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cr6_tak.wav
+FLS_cr7_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cr7_tak.wav
+FLS_cr8_shake.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_cr8_shake.wav
+FLS_ct1_dom.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ct1_dom.wav
+FLS_ct2_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ct2_tak.wav
+FLS_ct3_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ct3_tak.wav
+FLS_ct4_sak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ct4_sak.wav
+FLS_ct5_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ct5_tak.wav
+FLS_ct6_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ct6_tak.wav
+FLS_ct7_tak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ct7_tak.wav
+FLS_ct8_fx.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ct8_fx.wav
+FLS_ct9_sak.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Kits\Drum Kit 08\FLS_ct9_sak.wav
+RD_Clap.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Clap.wav
+RD_Clav.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Clav.wav
+RD_Crash.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Crash.wav
+RD_Crash_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Crash_2.wav
+RD_Guiro.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Guiro.wav
+RD_Hat.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Hat.wav
+RD_Hat_1.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Hat_1.wav
+RD_Hat_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Hat_2.wav
+RD_Hat_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Hat_3.wav
+RD_Hat_4.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Hat_4.wav
+RD_Hat_5.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Hat_5.wav
+RD_Hat_6.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Hat_6.wav
+RD_Hat_7.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Hat_7.wav
+RD_Hat_8.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Hat_8.wav
+RD_Kick.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Kick.wav
+RD_Kick_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Kick_2.wav
+RD_Kick_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Kick_3.wav
+RD_Shaker.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Shaker.wav
+RD_Snare.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare.wav
+RD_Snare_10.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare_10.wav
+RD_Snare_11.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare_11.wav
+RD_Snare_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare_2.wav
+RD_Snare_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare_3.wav
+RD_Snare_4.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare_4.wav
+RD_Snare_5.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare_5.wav
+RD_Snare_6.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare_6.wav
+RD_Snare_7.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare_7.wav
+RD_Snare_8.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare_8.wav
+RD_Snare_9.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Snare_9.wav
+RD_Tambhit.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Tambhit.wav
+RD_Tom.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Tom.wav
+RD_Tom_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Tom_2.wav
+RD_Tom_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Tom_3.wav
+RD_Tom_4.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Tom_4.wav
+RD_Tom_5.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Tom_5.wav
+RD_Tom_6.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Tom_6.wav
+RD_Triangle.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Triangle.wav
+RD_TriMute.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_TriMute.wav
+RD_VibraSlap.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_VibraSlap.wav
+RD_Wood.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\RealDrumkits\RD_Wood.wav
+VT_BD.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_BD.wav
+VT_BD_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_BD_2.wav
+VT_CB.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_CB.wav
+VT_CHiHat.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_CHiHat.wav
+VT_CHiHat_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_CHiHat_2.wav
+VT_CL.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_CL.wav
+VT_Crash.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_Crash.wav
+VT_CY.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_CY.wav
+VT_HandClap.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_HandClap.wav
+VT_HandClap_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_HandClap_2.wav
+VT_HC.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_HC.wav
+VT_HighTom.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_HighTom.wav
+VT_Kick.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_Kick.wav
+VT_LC.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_LC.wav
+VT_LowTom.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_LowTom.wav
+VT_MA.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_MA.wav
+VT_MC.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_MC.wav
+VT_MidTom.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_MidTom.wav
+VT_OHiHat.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_OHiHat.wav
+VT_OHiHat_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_OHiHat_2.wav
+VT_Ride.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_Ride.wav
+VT_RimShot.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_RimShot.wav
+VT_RimShot_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_RimShot_2.wav
+VT_SD.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_SD.wav
+VT_SD_2.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_SD_2.wav
+VT_SD_3.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_SD_3.wav
+VT_Tom.wav ,V:\music\production\Default FPC Packs\Legacy\Drums\Vintage\VT_Tom.wav
