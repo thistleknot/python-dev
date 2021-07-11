@@ -1,0 +1,9 @@
+'if (White <= 65.1) and (Poverty > 19.25) then response: 0.605 | based on 1 samples',
+'if (White <= 65.1) and (Poverty <= 19.25) and (Crime > 686.0) then response: 0.536 | based on 1 samples',
+'if (White <= 65.1) and (Poverty <= 19.25) and (Crime <= 686.0) and (White <= 46.55) then response: 0.553 | based on 1 samples'
+'if (White <= 65.1) and (Poverty <= 19.25) and (Crime <= 686.0) and (White > 46.55) then response: 0.566 | based on 1 samples',
+'if (White > 65.1) and (Income <= 59549.5) and (Traf Deaths > 1.885) and (White > 92.5) then response: 0.512 | based on 1 samples',
+'if (White > 65.1) and (Income > 59549.5) and (Infant Mort <= 5.25) and (Infant Mort > 4.9) then response: 0.541 | based on 1 samples',
+'if (White > 65.1) and (Income > 59549.5) and (Infant Mort <= 5.25) and (Infant Mort <= 4.9) then response: 0.558 | based on 1 samples',
+'if (White > 65.1) and (Income <= 59549.5) and (Traf Deaths <= 1.885) and (Doctors > 339.5) and (Poverty > 12.65) then response: 0.507 | based on 1 samples',
+'if (White > 65.1) and (Income > 59549.5) and (Infant Mort > 5.25) and (Infant Mort <= 7.0) and (University <= 33.85) and (Population <= 998194.5) then response: 0.5 | based on 1 samples',
